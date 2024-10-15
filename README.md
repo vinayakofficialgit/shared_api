@@ -3,8 +3,13 @@
 
 
 npm install 
+
 npm start
 
 
 in browser
 localhost:9000/api/get
+/api/get/user
+
+
+
